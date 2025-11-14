@@ -67,3 +67,4 @@ Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and
 For any inquiries or issues, please contact [allsurej@gmail.com].
 
 # nextGen
+# hospitalmanagementhardik
